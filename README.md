@@ -1,0 +1,1 @@
+# bw-guest-houses-strapi-backend
